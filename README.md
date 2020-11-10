@@ -1,1 +1,1 @@
-# Starter kit for building &amp; deploying React app to Google Cloud Run
+# Bolierplate to build &amp; deploy React app to Google Cloud Run
